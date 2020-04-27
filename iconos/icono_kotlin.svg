@@ -17,6 +17,7 @@
 	.st11{clip-path:url(#SVGID_28_);}
 	.st12{fill:#6B70FC;}
 	.st13{fill:#F08619;}
+	.st14{fill:#F99132;}
 </style>
 <g>
 	<g>
@@ -1005,7 +1006,7 @@ AACA9xIzPn5NKQAAAAAAAOCr/xNgADZ6UbWBtuJqAAAAAElFTkSuQmCC" transform="matrix(0.36
 	</g>
 	<g>
 		<path class="st13" d="M229.65,51L60.82,228.55v158.72l168.59-168.89L397.09,51L229.65,51L229.65,51z"/>
-		<path class="st13" d="M60.82,387.28l168.59-168.89l167.69,168.89L60.82,387.28L60.82,387.28z"/>
+		<path class="st14" d="M60.82,387.28l168.59-168.89l167.69,168.89L60.82,387.28L60.82,387.28z"/>
 		<path class="st13" d="M60.82,51h168.84L60.82,228.55V51z"/>
 	</g>
 </g>
